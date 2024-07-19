@@ -49,12 +49,7 @@ function createCard(data) {
                </div>
          
            
-              <div class="meta">
-                <img src="${products.meta.qrCode}" alt="">
-              <div class="creat">
-                <p>${products.meta.createdAt}</p>
-             <p>${products.meta.updatedAt}</p>
-              </div>
+             
            
           
               </div>
